@@ -2,7 +2,7 @@
 
 **This is Markdown**
 
-I have several pets
+I have two wonderful pets
 
 - Spock (cat)
 - Angel (dog)
