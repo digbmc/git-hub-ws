@@ -1,13 +1,13 @@
-# Good morning!
+# Markdown
 
-- I'm adding an unordered list
-- An additional bullet point
+**This is Markdown**
 
-![pink axolotl](https://alicemcgrath.digital.brynmawr.edu/simple-site/images/janeway.jpg)
+I have several pets
 
-Here's my [personal website](https://alicetmcgrath.com/)
+- Spock (cat)
+- Angel (dog)
 
-This is not a very interesting document
-
-
-Back to [README](README.md)
+Here's what I'm doing today
+1. Github workshop
+2. EaST assistant interviews
+3. Other things
